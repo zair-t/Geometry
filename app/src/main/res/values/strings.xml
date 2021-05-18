@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Geometry</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="alpha">Угол напротив a</string>
+    <string name="betta">Угол напротив b</string>
+    <string name="gamma">Угол напротив c</string>
+    <string name="radiusI">Радиус вписанной окружности</string>
+    <string name="radiusO">Радиус описанной окружности</string>
+    <string name="area">Площадь</string>
+    <string name="perimeter">Периметр</string>
+    <string name="calculate">Решить треугольник</string>
+    <string name="theory">Теория</string>
+    <string name="title_activity_theory">Theory</string>
+    <string name="choosePicture">Выбрать картинку</string>
+    <string name="name">Название</string>
+    <string name="description">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="reg">Зарегистрироваться</string>
+    <string name="sign">Войти</string>
+    <string name="sign_in"><u>SIGN IN</u></string>
+    <string name="come_back">Начать</string>
+    <string name="warningMes">Чтобы смотреть или добавлять теорию - войдите!</string>
+    <string name="im">im</string>
+    <string name="question">Что дано?</string>
+    <string name="solving">Решение:</string>
+    <string name="given">Дано:</string>
+    <string name="long_dash">______________</string>
+    <string name="Found">Найти:</string>
+
+</resources>
